@@ -5,5 +5,4 @@
 //  Copyright © 2026 AppLovin. All rights reserved.
 //
 
-// This wrapper ensures that the AppLovinMediationGoogleAdapter binary framework
-// is linked together with its required dependencies (AppLovinSDK and GoogleMobileAds).
+// This wrapper ensures that the binary framework is linked together with its required dependencies
