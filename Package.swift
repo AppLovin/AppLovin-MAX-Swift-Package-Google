@@ -6,7 +6,7 @@ import PackageDescription
 
 let package = Package(
     name: "AppLovinMediationGoogleAdapter",
-    platforms: [.iOS(.v12)],
+    platforms: [.iOS(.v13)],
     products: [
         .library(
             name: "AppLovinMediationGoogleAdapter",
@@ -28,8 +28,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppLovinMediationGoogleAdapter",
-            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/google-adapter/AppLovinMediationGoogleAdapter-13.9.0.2.zip",
-            checksum: "d8a6fba7aafc40d16668b89add5dbcf3ab588453172e7fa139c8b12fad5ac6d0"
+            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/google-adapter/AppLovinMediationGoogleAdapter-13.9.0.3.zip",
+            checksum: "9ee9454cd8fa8203ec85a516ce2860dd7f21610a13e8a10bcfafc86d0f4fbd00"
         )
     ]
 )
