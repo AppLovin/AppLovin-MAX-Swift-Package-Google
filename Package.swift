@@ -28,8 +28,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppLovinMediationGoogleAdapter",
-            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/google-adapter/AppLovinMediationGoogleAdapter-13.9.0.1.zip",
-            checksum: "e442713a26f1ff814aff5ac6d7a87f3325b054180a9614f199ed907e5eae8164"
+            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/google-adapter/AppLovinMediationGoogleAdapter-13.9.0.2.zip",
+            checksum: "d8a6fba7aafc40d16668b89add5dbcf3ab588453172e7fa139c8b12fad5ac6d0"
         )
     ]
 )
